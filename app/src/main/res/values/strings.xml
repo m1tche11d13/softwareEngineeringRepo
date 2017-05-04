@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Brick Tracker</string>
+    <string name="main_menu_collections">My Collection</string>
+    <string name="main_menu_browse">Browse All</string>
+    <string name="main_menu_news">News</string>
+    <string name="splash_text">Loading data...</string>
+    <string name="colors_view">Colors</string>
+    <string name="parts_view">Parts</string>
+    <string name="sets_view">Sets</string>
+</resources>
